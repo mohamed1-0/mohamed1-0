@@ -50,9 +50,22 @@ I believe in understanding the fundamentals before chasing the tools.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohamed1-0/mohamed1-0/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/mohamed1-0/mohamed1-0/main/assets/contribution-network.gif"
+    width="100%"
+    alt="GitHub Contribution Neural Network"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://raw.githubusercontent.com/mohamed1-0/mohamed1-0/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 
 </div>
+
 
 ---
 
