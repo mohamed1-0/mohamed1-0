@@ -8,43 +8,28 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="60%" valign="middle">
+<img align="right" width="260" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding animation" />
 
-### About Me
+### Mohamed Atya
 
-I'm **Mohamed Atya**, a Computer Science &amp; Artificial Intelligence student.
+Computer Science &amp; Artificial Intelligence student.
 
-I'm interested in how intelligent software can interact with the real world.
+Interested in how intelligent software interacts with the real world.
 
-I'm currently building my foundations in AI and programming, exploring Machine Learning, Deep Learning, Computer Vision, and Robotics through coursework and hands-on projects.
+Currently building my foundations in AI and programming, exploring Machine Learning, Deep Learning, Computer Vision, and Robotics.
 
 I believe in understanding the fundamentals before chasing the tools.
 
-<br/>
+<br clear="all"/>
 
 > **Understand deeply. Build intelligently. Keep improving.**
 
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R3ZWthcWsyanJzd3gxcjhpcDRwdXZjbjh3cmU4djZydng4NTd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="280" alt="Coding animation" />
-    </td>
-  </tr>
-</table>
-
 ---
 
-### Languages & Tools
+### Languages &amp; Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,linux&amp;theme=dark" alt="Core Languages and Tools" />
-</p>
-
-<p align="center">
-  <sub>Currently Exploring</sub>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,docker,arduino&amp;theme=dark" alt="Currently Exploring" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,linux,pytorch,kaggle,opencv,docker,arduino&amp;theme=dark" alt="Languages and Tools" />
 </p>
 
 ---
@@ -75,8 +60,6 @@ I believe in understanding the fundamentals before chasing the tools.
 
 Have an interesting idea or project? Let's connect.
 
-<br/>
-
 <a href="https://github.com/mohamed1-0">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=00D9FF" alt="GitHub" />
 </a>
@@ -84,8 +67,6 @@ Have an interesting idea or project? Let's connect.
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D9FF,50:0B1F3A,100:07111F&amp;height=90&amp;section=footer" alt="Footer" />
-
-<br/>
 
 <code>while(alive) { learn(); build(); repeat(); }</code>
 
