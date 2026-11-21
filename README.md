@@ -10,7 +10,7 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding animation" />
 
-### Mohamed Atya
+### I'm Mohamed Atya
 
 Computer Science &amp; Artificial Intelligence student.
 
