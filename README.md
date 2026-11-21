@@ -1,14 +1,14 @@
  <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Typing SVG" />
+  <img src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi+there+%F0%9F%91%BB;Software+Engineer+in+Progress;ML+%C2%B7+DL+%C2%B7+CV+Trainee;Competitive+Programmer;Exploring+Robotics)" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<img align="right" width="260" src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R3ZWthcWsyanJzd3gxcjhpcDRwdXZjbjh3cmU4djZydng4NTd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)" alt="Coding animation" />
+<img align="right" width="260" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding animation" />
 
 ### Mohamed Atya
 
